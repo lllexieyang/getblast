@@ -2,8 +2,9 @@
 
 
 # Collect blast result of contigs containing specific gene and coexist with other genes.
-# Inc_result.py -b [blast path] -g [gene]
-
+# findgene.py -b [blast path] -g [gene]
+# Copy right reserved : Lu Yang (yanglu2016@cau.edu.cn)
+# Last change: Oct 1 2019
 
 import os
 import argparse
