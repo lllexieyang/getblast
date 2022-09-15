@@ -1,8 +1,7 @@
 # !/usr/bin/env python
 
 
-# Collect blast result of contigs containing specific gene and coexist with other genes.
-# findgene.py -b [blast path] -g [gene]
+# Python2 （ancient unmaintained code)
 # Copy right reserved : Lu Yang (yanglu2016@cau.edu.cn)
 # Last change: Oct 1 2019
 
