@@ -1,16 +1,5 @@
 # !/usr/bin/env python
 
-# Extract information from blast result.
-# Python3
-# EXAMPLES:
-# 1. filter with default set (length 100, cov 80.00, score 100)
-# python blastfilter.py -f [blast file name]
-# 2. extract results that exactly matched "mcr-1"
-# python blastfilter.py -f [blast file name] -g mcr-1 -e
-# 3. extract results with gene names contains "mcr"
-# python blastfilter.py -f [blast file name] -g mcr
-# NOTE: "|" is not allowed in the gene name
-
 
 # Copy right reserved : Lu Yang (yanglu2016@cau.edu.cn)
 # Last change: Sep 8 2022
