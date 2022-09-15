@@ -1,7 +1,7 @@
 # !/usr/bin/env python
 
 
-# Python2 （ancient unmaintained code)
+# Python2
 # Copy right reserved : Lu Yang (yanglu2016@cau.edu.cn)
 # Last change: Oct 1 2019
 
